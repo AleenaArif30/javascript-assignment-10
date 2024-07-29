@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+}
+
+.item {
+    text-align: center;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
